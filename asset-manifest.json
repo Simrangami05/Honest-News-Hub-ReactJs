@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Honest-News-Hub-ReactJs/static/css/main.d43b7cbb.css",
+    "main.js": "/Honest-News-Hub-ReactJs/static/js/main.a78788ce.js",
+    "static/js/787.4c026eef.chunk.js": "/Honest-News-Hub-ReactJs/static/js/787.4c026eef.chunk.js",
+    "index.html": "/Honest-News-Hub-ReactJs/index.html",
+    "main.d43b7cbb.css.map": "/Honest-News-Hub-ReactJs/static/css/main.d43b7cbb.css.map",
+    "main.a78788ce.js.map": "/Honest-News-Hub-ReactJs/static/js/main.a78788ce.js.map",
+    "787.4c026eef.chunk.js.map": "/Honest-News-Hub-ReactJs/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d43b7cbb.css",
+    "static/js/main.a78788ce.js"
+  ]
+}
